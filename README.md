@@ -2,6 +2,10 @@
 
 Binding for VulkanMemoryAllocator.
 
+## Installation
+
+1. Build VulkanMemoryAllocator as per directions and copy output library file to __external/__ folder
+
 ## Usage
 
 ```
