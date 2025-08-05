@@ -1,6 +1,6 @@
 package vma
 
-import c "core:c"
+@(require) import c "core:c"
 
 AllocatorCreateFlags :: distinct bit_set[AllocatorCreateFlagBit;u32]
 
